@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\JORGEDATA\\portafolio\\ue5\\G.O._UE5\\G_O_FiniteRunner\\Source\\G_O_FiniteRunner\\G_O_FiniteRunner.Build.cs",
+		"D:\\JORGEDATA\\portafolio\\ue5\\G.O._UE5\\G_O_FiniteRunner\\Source\\G_O_FiniteRunner.Target.cs",
+		"D:\\JORGEDATA\\portafolio\\ue5\\G.O._UE5\\G_O_FiniteRunner\\Source\\G_O_FiniteRunnerEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}

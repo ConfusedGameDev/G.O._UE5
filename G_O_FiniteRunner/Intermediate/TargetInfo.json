@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "G_O_FiniteRunner",
+			"Path": "D:\\JORGEDATA\\portafolio\\ue5\\G.O._UE5\\G_O_FiniteRunner\\Source\\G_O_FiniteRunner.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "G_O_FiniteRunnerEditor",
+			"Path": "D:\\JORGEDATA\\portafolio\\ue5\\G.O._UE5\\G_O_FiniteRunner\\Source\\G_O_FiniteRunnerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

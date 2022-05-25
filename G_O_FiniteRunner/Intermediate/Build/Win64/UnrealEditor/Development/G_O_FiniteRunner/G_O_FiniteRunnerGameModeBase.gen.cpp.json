@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\jorgedata\\portafolio\\ue5\\g.o._ue5\\g_o_finiterunner\\intermediate\\build\\win64\\unrealeditor\\inc\\g_o_finiterunner\\g_o_finiterunnergamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\jorgedata\\portafolio\\ue5\\g.o._ue5\\g_o_finiterunner\\intermediate\\build\\win64\\g_o_finiterunnereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\jorgedata\\portafolio\\ue5\\g.o._ue5\\g_o_finiterunner\\intermediate\\build\\win64\\unrealeditor\\development\\g_o_finiterunner\\definitions.g_o_finiterunner.h",
+            "d:\\jorgedata\\portafolio\\ue5\\g.o._ue5\\g_o_finiterunner\\source\\g_o_finiterunner\\g_o_finiterunnergamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\jorgedata\\portafolio\\ue5\\g.o._ue5\\g_o_finiterunner\\intermediate\\build\\win64\\unrealeditor\\inc\\g_o_finiterunner\\g_o_finiterunnergamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

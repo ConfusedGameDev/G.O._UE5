@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-G_O_FiniteRunner.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\JORGEDATA\portafolio\ue5\G.O._UE5\G_O_FiniteRunner\Intermediate\Build\Win64\G_O_FiniteRunnerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\JORGEDATA\portafolio\ue5\G.O._UE5\G_O_FiniteRunner\Intermediate\Build\Win64\UnrealEditor\Development\G_O_FiniteRunner\G_O_FiniteRunner.cpp.obj"
+"D:\JORGEDATA\portafolio\ue5\G.O._UE5\G_O_FiniteRunner\Intermediate\Build\Win64\UnrealEditor\Development\G_O_FiniteRunner\G_O_FiniteRunnerGameModeBase.cpp.obj"
+"D:\JORGEDATA\portafolio\ue5\G.O._UE5\G_O_FiniteRunner\Intermediate\Build\Win64\UnrealEditor\Development\G_O_FiniteRunner\G_O_FiniteRunner.init.gen.cpp.obj"
+"D:\JORGEDATA\portafolio\ue5\G.O._UE5\G_O_FiniteRunner\Intermediate\Build\Win64\UnrealEditor\Development\G_O_FiniteRunner\G_O_FiniteRunnerGameModeBase.gen.cpp.obj"
+"D:\JORGEDATA\portafolio\ue5\G.O._UE5\G_O_FiniteRunner\Intermediate\Build\Win64\UnrealEditor\Development\G_O_FiniteRunner\Default.rc2.res"
+/OUT:"D:\JORGEDATA\portafolio\ue5\G.O._UE5\G_O_FiniteRunner\Intermediate\Build\Win64\UnrealEditor\Development\G_O_FiniteRunner\UnrealEditor-G_O_FiniteRunner.lib"
